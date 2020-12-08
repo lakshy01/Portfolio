@@ -34,7 +34,7 @@ const MoreAboutMe = (props) => {
                         <br />
                         <div className="description">
                             <p style={{ fontSize: '20px', fontWeight: 'bolder' }}>Hamari Pahchan is a non-governmental organization, striving and working to make Delhi a safer and happier place to live. It provides a platform to the deserving people from society, to create their own identity and carve out a niche for themselves.
-I worked here as an Intern for raising funds for women's health and sanitization. I design the poster and write content for spreading awareness among people.</p>
+I worked here as an Intern for raising funds for women's health and sanitization. I designed posters and wrote content for spreading awareness among people.</p>
                         </div>
                         <br />
                         <div className="extra" style={{ fontSize: '20px', fontWeight: 'bolder' }}>
@@ -57,7 +57,7 @@ I worked here as an Intern for raising funds for women's health and sanitization
                         <br />
                         <div className="description">
                             <p style={{ fontSize: '20px', fontWeight: 'bolder' }}>Vteach is a social outreach club which provides education facilities to underprivileged children.
-I worked as a volunteer in the research team of the Vteach. I made the syllabus for the students with other fellow researchers and also helped in teaching the students. </p>
+I worked as a volunteer in the research team of Vteach. I made the syllabus for the students with other fellow researchers and also helped in teaching the students. </p>
                         </div>
                         <br />
                         <div className="extra" style={{ fontSize: '20px', fontWeight: 'bolder' }}>
@@ -79,7 +79,7 @@ I worked as a volunteer in the research team of the Vteach. I made the syllabus 
                         </div>
                         <br />
                         <div className="description" style={{ fontSize: '20px', fontWeight: 'bolder' }}>
-                            I always have an interest in chess. In a pandemic, I start playing chess a little more seriously by learning different openings and patterns to improve your positions in the mid and end game. I also started watching international tournaments for inspiration and fun!!!
+                            I always had some interest in chess. During pandemic, I started playing chess a little more seriously by learning different openings and patterns to improve player positions in the mid and end game. I also started watching international tournaments for inspiration and fun!!!
                         </div>
                         <br />
                         <div className="extra">
@@ -100,7 +100,7 @@ I worked as a volunteer in the research team of the Vteach. I made the syllabus 
                         </div>
                         <br />
                         <div className="description" style={{ fontSize: '20px', fontWeight: 'bolder' }}>
-                            I have an interest in drawing for a very long. I am not good at making typical scenery or human portraits but I am good at making clip arts, anime characters, and other less complex art.
+                            I have an interest in drawing since a very long while.I am good at making cliparts, anime characters.
                         </div>
                         <br />
                         <div className="extra">

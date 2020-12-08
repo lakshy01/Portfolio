@@ -44,7 +44,7 @@ const Project = (props) => {
             <h2 className="ui header">
                 <img className="ui image" src={Proj} />
                 <div className="content mee">
-                    Project
+                    Projects
                 </div>
             </h2>
             <br />

@@ -3,8 +3,6 @@ import { connect } from 'react-redux';
 import './Style.css';
 
 const Beauty = (props) => {
-    console.log(window.screen.height);
-    console.log(window.screen.width);
     const disp = props.isClicked.isClicked ? 'none' : 'block';
     return (
         <div style={{ display: `${disp}` }}>
